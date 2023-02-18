@@ -1,0 +1,26 @@
+.App {
+  background-color: #f1f0f0;
+  padding: 40px;
+  margin: 10px;
+}
+.my-container{
+   background-color: #ffffff;
+   padding: 40px;
+   width: 400px;
+   margin: auto;
+}
+
+.myNumber{
+   background-color: #000000;
+   color: #fff;
+   height: 30px;
+   width: 30px;
+   border-radius: 50px;
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+   margin-right: 5px;
+}
+
+
+
